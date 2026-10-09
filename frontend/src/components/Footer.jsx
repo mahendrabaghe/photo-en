@@ -12,7 +12,7 @@ export default function Footer() {
                 <Sparkles className="w-4 h-4 text-white" />
               </div>
               <span className="text-lg font-bold bg-gradient-to-r from-purple-700 to-indigo-600 bg-clip-text text-transparent">
-                PhotoStudio AI
+                AKKU
               </span>
             </div>
             <p className="text-gray-500 text-sm leading-relaxed max-w-xs">
@@ -51,13 +51,13 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-100 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm text-gray-400">
-          <p>© {new Date().getFullYear()} PhotoStudio AI. No images are stored or logged.</p>
+          <p>© {new Date().getFullYear()} AKKU . No images are stored or logged.</p>
           <p>Built with React · Flask · Pillow · OpenCV</p>
         </div>
 
         {/* Privacy policy anchor */}
         <div id="privacy-policy" className="mt-8 p-4 bg-gray-50 rounded-xl text-xs text-gray-500 leading-relaxed">
-          <strong className="text-gray-700">Privacy Policy:</strong> PhotoStudio AI processes all images
+          <strong className="text-gray-700">Privacy Policy:</strong> AKKU processes all images
           in-memory on the server and does not store, log, or share any image data. Temporary files created
           during processing are deleted within 5 minutes. No user accounts, cookies, or tracking are used.
         </div>
