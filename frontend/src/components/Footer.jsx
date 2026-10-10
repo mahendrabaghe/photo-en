@@ -12,7 +12,7 @@ export default function Footer() {
                 <Sparkles className="w-4 h-4 text-white" />
               </div>
               <span className="text-lg font-bold bg-gradient-to-r from-purple-700 to-indigo-600 bg-clip-text text-transparent">
-                AKKU
+                photo Editor
               </span>
             </div>
             <p className="text-gray-500 text-sm leading-relaxed max-w-xs">
